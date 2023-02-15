@@ -1,5 +1,7 @@
 #!/user/bin/python3
-
+"""
+This funtion displays string of zeros in a binary number, Binary gap
+"""
 def solution(N):
     binaryN = bin(N)[2:]
     maxGap = 0
