@@ -18,5 +18,3 @@ def solution(N):
 '''An example'''
 print("Binary gap of {}: ".format(529),solution(529))
 print("Binary gap of {}: ".format(221),solution(221))
-print("Binary gap of {}: ".format(80),solution(80))
-
